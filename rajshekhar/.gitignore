@@ -1,1 +1,1 @@
-target/*.txt
+target/tomcat:8080/*.txt
